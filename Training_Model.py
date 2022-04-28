@@ -55,3 +55,10 @@ print('Test accuracy:', score[1])
 
 model.save('mnist.h5')
 print("Saving the model as mnist.h5")
+
+
+
+
+
+
+# File for the Hand Written digit recognition 
